@@ -5,6 +5,6 @@
     * [Windows](/#)
     * [Ubuntu](/#)
     * [Hive OS](/#)
-  * [CPU](/#)
+  * [CPU](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md) (Не актуально)
 * [BOOST FACTOR](/#)
 * [GIVERS](/#)
