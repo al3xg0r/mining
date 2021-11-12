@@ -7,4 +7,4 @@
     * [Hive OS](/#)
   * [CPU (Не актуально)](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md)
 * [BOOST FACTOR](/#)
-* [GIVERS](/#)
+* [GIVERS](https://ton.org/mining)
