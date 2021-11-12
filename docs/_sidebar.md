@@ -13,3 +13,4 @@
   * [run_config.ini](/#)
 * [GIVERS](https://ton.org/mining)
 * [Источники](/#)
+* Редакция от 2021-11-13 00:21:51
