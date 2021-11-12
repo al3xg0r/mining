@@ -16,3 +16,5 @@
 - [DG](https://t.me/disappost)
 - [GoJohnny](https://t.me/gojohnny)
 - [Cryptograf319](https://t.me/Cryptograf319)
+
+> Работает на [docsify](https://docsify.js.org/ "docsify")
