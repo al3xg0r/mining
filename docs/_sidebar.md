@@ -1,7 +1,7 @@
 * [Главная](/)
 
 * [Майнинг](/mining/)
-  * [🖥GPU](/#)
+  * [GPU](/#)
     * [Windows](/#)
 	  * [Nvidia](/windows/nvidia.md)
 	  * [AMD](/#)
