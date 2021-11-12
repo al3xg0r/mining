@@ -23,4 +23,4 @@ USE_LOG=N
 LOG_FILE=gpu_0_miner_log.txt
 TEST_TIME=10
 ```
-и заменяем в первой строке **giver_address** на одного из [10 Giver`ов](https://ton.org/mining "10 Giver`ов")
+и заменяем в первой строке **giver_address** на одного из [10 Giverов](https://ton.org/mining "10 Giver`ов")
