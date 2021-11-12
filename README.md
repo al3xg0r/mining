@@ -1,4 +1,4 @@
-### Документация по майнингу криптовалюты 💎toncoin - The Open Network 🚀 ([ton.org](https://ton.org))
+### Документация по майнингу криптовалюты 💎toncoin (TON) - The Open Network 🚀 ([ton.org](https://ton.org))
 
 Вся информация собрана (из открытых источников) в одном месте для удобства.
 
