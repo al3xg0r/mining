@@ -1,10 +1,10 @@
 * [Главная](/)
 
-* [Майнинг](/#)
+* [Майнинг](/mining/mining.md)
   * [GPU](/#)
     * [Windows](/#)
     * [Ubuntu](/#)
     * [Hive OS](/#)
-  * [CPU](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md) (Не актуально)
+  * [CPU (Не актуально)](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md)
 * [BOOST FACTOR](/#)
 * [GIVERS](/#)
