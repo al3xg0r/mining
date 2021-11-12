@@ -15,3 +15,4 @@
 - [Dr. Elias](https://t.me/tgigt)
 - [DG](https://t.me/disappost)
 - [GoJohnny](https://t.me/gojohnny)
+- [Cryptograf319](https://t.me/Cryptograf319)
