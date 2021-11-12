@@ -11,6 +11,16 @@
 4. Затем необходимо скачать **run_config.ini** и **run_cuda.bat**, для этого переходим по этой [ссылке](https://github.com/tontechio/pow-miner-win-util "ссылке") и скачиваем ZIP архив, как показано на скриншоте. После этого забираем из архива два вышеуказанных файла и добавляем их в общую папку.
  ![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/config.png "config")
 
-5. Открываем **run_config.ini** и заменяем в первой строке **giver_address** на одного из [10 Giver`ов](https://ton.org/mining "10 Giver`ов")
-![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/run_config.png)
-
+5. Открываем **run_config.ini** 
+```
+GIVER_ADDR=giver_address
+MY_ADDR=my_address
+GPU_ID=0
+GPU_PLATFORM_ID=0
+BOOST_FACTOR=64
+CONFIG_FILE=global.config.json
+USE_LOG=N
+LOG_FILE=gpu_0_miner_log.txt
+TEST_TIME=10
+```
+и заменяем в первой строке **giver_address** на одного из [10 Giver`ов](https://ton.org/mining "10 Giver`ов")
