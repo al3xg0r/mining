@@ -1,6 +1,6 @@
 * [Главная](/)
 
-* [Майнинг](/mining/mining.md)
+* [Майнинг](/mining/indexmine.md)
   * [GPU](/#)
     * [Windows](/#)
     * [Ubuntu](/#)
