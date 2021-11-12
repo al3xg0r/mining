@@ -24,3 +24,22 @@ LOG_FILE=gpu_0_miner_log.txt
 TEST_TIME=10
 ```
 и заменяем в первой строке **giver_address** на одного из [10 Giverов](https://ton.org/mining "10 Giver`ов")
+
+6. Вместо **my_address** впишите адрес своего кошелька, в результате документ должен принять следующий вид:
+```
+GIVER_ADDR=Ef8JfFUEJhhpRW80_jqD7zzQteH6EBHOzxiOhygRhBdt44YH
+MY_ADDR=EQDCH6vT0mVvp0bBYNjoONpkgb51NMPNOJXFQWG54XoIAs5Y
+GPU_ID=0
+GPU_PLATFORM_ID=0
+BOOST_FACTOR=64
+CONFIG_FILE=global.config.json
+USE_LOG=N
+LOG_FILE=gpu_0_miner_log.txt
+TEST_TIME=10
+```
+7. Убедитесь, что **все** указанные файлы находятся в одной папке, как на скриншоте ниже.
+![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/mine-folder.png)
+
+8. Далее нужно запустить файл **run_cuda.bat** (в простонароде - батник), если всё было сделано верно, вы увидите окно, как на скриншоте ниже.
+![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/runsync.png)
+9. После завершения синхронизации начнётся майнинг, найденные монеты будут начисляться на адрес указанный в 6 шаге. **PROFIT!!!**
