@@ -9,6 +9,6 @@
 3. Распаковываем архив и добавляем к его содержимому файл с текущей конфигурацией сети [global.config.json](https://newton-blockchain.github.io/global.config.json "global.config.json").
 
 4. Затем необходимо скачать **run_config.ini** и **run_cuda.bat**, для этого переходим по этой [ссылке](https://github.com/tontechio/pow-miner-win-util "ссылке") и скачиваем ZIP архив, как показано на скриншоте. После этого забираем из архива два вышеуказанных файла и добавляем их в общую папку.
- ![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/config.png "config")
+ ![](https://github.com/tonminingdocs/tonmd.github.io/blob/main/docs/media/config.png "config")
 
 5.  
