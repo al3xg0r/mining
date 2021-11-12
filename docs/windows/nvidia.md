@@ -12,5 +12,5 @@
  ![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/config.png "config")
 
 5. Открываем **run_config.ini** и заменяем в первой строке **giver_address** на одного из [10 Giver`ов](https://ton.org/mining "10 Giver`ов")
- ![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/run_config.png "run_config.ini")
+![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/run_config.png)
 
