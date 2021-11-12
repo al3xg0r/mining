@@ -3,6 +3,8 @@
 * [Майнинг](/mining/)
   * [GPU](/#)
     * [Windows](/#)
+	  * [Nvidia](/windows/nvidia.md)
+	  * [AMD](/#)
     * [Ubuntu](/#)
     * [Hive OS](/#)
   * [CPU (Не актуально)](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md)
