@@ -6,7 +6,7 @@
 	  * [Для карт Nvidia](/windows/nvidia.md)
 	  * [Для карт AMD](/windows/amd.md)
     * [Ubuntu*](/#)
-    * [Hive OS (!Скоро)](/#)
+    * [Hive OS](https://youtu.be/Z5YdOHzuslk)
   * [CPU (Не актуально)](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md)
 * [Настройки](/#)
   * [Boost factor](/#)
