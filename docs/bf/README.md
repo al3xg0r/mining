@@ -16,4 +16,14 @@
 
 Полученное в тесте число (best boost factor) в данном случае 1 записываем в конфиг **run_config.ini** (BOOST_FACTOR=1):
 
-`BOOST_FACTOR=1`
+```
+GIVER_ADDR=giver_address
+MY_ADDR=my_address
+GPU_ID=0
+GPU_PLATFORM_ID=0
+BOOST_FACTOR=1
+CONFIG_FILE=global.config.json
+USE_LOG=N
+LOG_FILE=gpu_0_miner_log.txt
+TEST_TIME=10
+```
