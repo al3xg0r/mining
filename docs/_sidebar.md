@@ -2,7 +2,7 @@
 
 * [Майнинг](/mining/)
   * [GPU](/mining/gpy.md)
-    * [Windows](/#)
+    * [Windows](/windows/)
 	  * [Для карт Nvidia](/windows/nvidia.md)
 	  * [Для карт AMD (OpenCL)](/windows/amd.md)
     * [Ubuntu*](/#)
