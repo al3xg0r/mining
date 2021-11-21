@@ -5,10 +5,10 @@
     * [Windows](/windows/)
 	  * [Для карт Nvidia](/windows/nvidia.md)
 	  * [Для карт AMD (OpenCL)](/windows/amd.md)
-    * [Ubuntu*](/#)
+    * [Ubuntu*](https://tontechio.github.io/pow-miner-gpu/ru/linux-howto.html)
     * [Hive OS](https://youtu.be/Z5YdOHzuslk)
   * [CPU (Не актуально)](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md)
-* [Настройки](/#)
+* Настройки
   * [Boost factor](/bf/)
   * [run_config.ini](/#)
 * [GIVERS](https://ton.org/mining)
