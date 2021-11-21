@@ -10,7 +10,7 @@
 
 ### Запуск теста Boost Factor
 
-Для одной карты, нужно запустить файл **test_cuda.bat** для **NVidia**, **test_opencl.bat** для **AMD** ([скачаные от сюда](https://github.com/tontechio/pow-miner-win-util "скачаные от сюда")). Запустится тестирование, которое продлится несколько минут, по истечению которого будет примерно такой результат:
+Нужно запустить файл **test_cuda.bat** для **NVidia**, **test_opencl.bat** для **AMD** ([скачаные от сюда](https://github.com/tontechio/pow-miner-win-util "скачаные от сюда")). Запустится тестирование, которое продлится несколько минут, по истечению которого будет примерно такой результат:
 
 ![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/bf-test.png)
 
