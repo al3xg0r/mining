@@ -9,5 +9,6 @@
     * [Hive OS](https://youtu.be/Z5YdOHzuslk)
   * [CPU (Не актуально)](https://github.com/igroman787/mytonctrl/blob/master/README.Ru.md)
 * Настройки
+  * [Утилиты](/utils.md)
   * [Boost factor](/bf/)
 * [GIVERS](https://ton.org/mining)
