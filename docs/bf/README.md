@@ -14,7 +14,7 @@
 
 ![](https://raw.githubusercontent.com/tonminingdocs/tonmd.github.io/main/docs/media/bf-test.png)
 
-Полученное в тесте число (best boost factor) в данном случае 1 записываем в конфиг **run_config.ini** (BOOST_FACTOR=1):
+Полученное в тесте число (best boost factor) в данном случае 1 записываем в конфиг [run_config.ini](/utils?id=run_configini) `(BOOST_FACTOR=1)`:
 
 ```
 GIVER_ADDR=giver_address
