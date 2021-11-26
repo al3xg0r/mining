@@ -8,7 +8,7 @@ GPU-майнинг подразумевает использование гра�
 
 #### Инструкции:
 - [Windows](/windows/)
-  - [Для карт Nvidia](/windows/nvidia.md)
-  - [Для карт AMD (OpenCL)](/windows/amd.md)
+	- [Для карт Nvidia](/windows/nvidia.md)
+	- [Для карт AMD (OpenCL)](/windows/amd.md)
 - [HiveOs](/mining/hiveos.md)
 - [Ubuntu](https://tontechio.github.io/pow-miner-gpu/ru/linux-howto.html)
