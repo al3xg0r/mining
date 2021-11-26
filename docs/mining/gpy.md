@@ -7,6 +7,8 @@ GPU-майнинг подразумевает использование гра�
 > Майнинг на GPU значительно быстрее и эффективнее, чем майнинг на CPU.
 
 #### Инструкции:
-
-- [Для карт Nvidia](/windows/nvidia.md)
-- [Для карт AMD (OpenCL)](/windows/amd.md)
+- [Windows](/windows/)
+ - [Для карт Nvidia](/windows/nvidia.md)
+ - [Для карт AMD (OpenCL)](/windows/amd.md)
+- [HiveOs](/mining/hiveos.md)
+- [Ubuntu](https://tontechio.github.io/pow-miner-gpu/ru/linux-howto.html)
